@@ -26,9 +26,6 @@ Built during the IBM SkillsBuild Data Analytics with AI Internship. Applied data
 **StormAlert** — Weather Notification System
 Python system integrating OpenWeatherMap and Twilio APIs to send automated SMS alerts based on live weather conditions.
 
-**AutoFlow** — Browser Automation Suite
-Selenium-based Python scripts automating repetitive browser tasks, reducing manual effort in form-filling and data entry.
-
 **[Python Projects](https://github.com/yuvraj-sp/python-projects)** — Collection of Mini Projects
 Games and tools built from scratch, including Snake and Pong (Tkinter/Turtle), with core game-loop logic, collision detection, and score tracking.
 
